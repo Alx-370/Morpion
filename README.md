@@ -1,4 +1,4 @@
-#Projet Morpion Version 1.0
+Projet Morpion Version 1.0
 <br>
 <img src="imgMorpion.png" width="150"/>
 <br>
