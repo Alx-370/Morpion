@@ -1,6 +1,6 @@
 #Projet Morpion Version 1.0
 <br>
-<img src="morpion.jpg" width="150"/>
+<img src="imgMorpion.jpg" width="150"/>
 <br>
 <p> Projet de formation : un jeu de **Morpion (Tic-Tac-Toe)** 
   Dans le cadre de ma formation, j’ai développé un petit jeu de morpion classique en HTML, CSS et JavaScript, 
