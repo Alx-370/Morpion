@@ -23,7 +23,7 @@ Et une distinction visuelle entre le joueur X (jaune) et O (bleu) !
 🎯 Ce projet m’a permis de manipuler le JavaScript de manière dynamique, d’explorer la manipulation du HTML via JS, et d’intégrer des styles personnalisés avec le CSS.
 
 <br>
- Envie d'essayer? https://alx-370.github.io/Projet-formation-SnakeV2/
+ Envie d'essayer? https://alx-370.github.io/Projet-formation-MorpionV1/
 <br>
 
 ## 🛠️Compérences :
